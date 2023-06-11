@@ -64534,11 +64534,11 @@ s=3
 return A.a9(A.abV(),$async$ng)
 case 3:l=c
 A.Al(l)
-if(a<=-4){q=B.f.j(n)+" x "+B.f.j(m)+"\t\t\t "+B.f.j(n*m)
+if(a<=4){q=B.f.j(n)+" x "+B.f.j(m)+"\t\t\t "+B.f.j(n*m)
 s=1
-break}if(B.cm.LS(a>40,a<10)){q=B.f.j(n)+" / "+B.f.j(m)+"\t\t\t "+B.e.j(n/m)
+break}if(B.cm.LS(!0,a<10)){q=B.f.j(n)+" / "+B.f.j(m)+"\t\t\t "+B.e.j(n/m)
 s=1
-break}s=a<=10?4:5
+break}s=a>=10?4:5
 break
 case 4:o=J.bq(l)
 o.mR(l)
