@@ -19605,7 +19605,7 @@ ac3(a){var s=0,r=A.a3(t.bD),q,p
 var $async$ac3=A.a4(function(b,c){if(b===1)return A.a0(c,r)
 while(true)switch(s){case 0:p=J
 s=3
-return A.a9($.rm().Kn("posts/"+a),$async$ac3)
+return A.a9($.rm().Kn("assets/posts/"+a),$async$ac3)
 case 3:q=p.cF(c)
 s=1
 break
@@ -19616,7 +19616,7 @@ var $async$ac7=A.a4(function(a,b){if(a===1)return A.a0(b,r)
 while(true)switch(s){case 0:p=new A.ac8()
 o=J
 s=3
-return A.a9($.rm().Kn("posts/posts.txt"),$async$ac7)
+return A.a9($.rm().Kn("assets/posts/posts.txt"),$async$ac7)
 case 3:q=p.$1(o.cF(b))
 s=1
 break
