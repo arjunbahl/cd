@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "e75e9714e62f136d5953c5e1783824e5",
+  "assets/AssetManifest.json": "778f255b23521dd15ccc53f9039a1f5b",
 "assets/assets/posts/2017-05-23-introspection-1.md": "57bd6370240ea941f235686d4a8a08cf",
 "assets/assets/posts/2017-06-10-lessons-learnt-during-ipcc-nov16.md": "64e02fb6bb9bc3495b2900f6aa90a95d",
 "assets/assets/posts/2017-08-18-digispark-notes.md": "fb6052f5a3b4fc6305fe32455f66a685",
@@ -157,6 +157,7 @@ const RESOURCES = {
 "assets/assets/posts/2022-12-04-Book-Notes-How-to-Solve-It.md": "01b771c717cf3fca26454233c0e7c42e",
 "assets/assets/posts/2022-12-20-Book-Notes-Homor-Seriously.md": "6a54a46331053f5af2d13576c48c1aa1",
 "assets/assets/posts/2023-06-05-book-notes-kevin-horsley-unlimited-memory%2520-%2520Copy.md": "dd789ba8bff0c05fe0ed91cea6210518",
+"assets/assets/posts/posts.txt": "442f2d286b3932077f7a5534c110c99e",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
 "assets/NOTICES": "f40917a001a0772ca70e964daafbcf21",
@@ -172,9 +173,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "d59a85fee30ecc2c778523c995ad8b1f",
-"/": "d59a85fee30ecc2c778523c995ad8b1f",
-"main.dart.js": "cd6e2f630d3eb7054a7e92af6f257dfc",
+"index.html": "96a9caed56a57f5cc69f8402e33d8b5c",
+"/": "96a9caed56a57f5cc69f8402e33d8b5c",
+"main.dart.js": "dae57cdfeb8c8d8eb93872e2cb16a9a6",
 "manifest.json": "71e0154c18320c9ca4cbf26c3e30935d",
 "version.json": "322dfa94430cc69aa45ce83495f46466"
 };
